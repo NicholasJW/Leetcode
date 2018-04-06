@@ -1,6 +1,7 @@
 #include <string>
 #include <string.h>
 #include <iostream>
+
 using namespace std;
 int newJewelsInStones(string J, string S){
     const char *j = J.c_str(); 
