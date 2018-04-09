@@ -1,5 +1,6 @@
 #include <vector>
 #include <algorithm>
+#include <iostream>
 
 using namespace std;
 
@@ -31,4 +32,8 @@ double findMaxAverage(vector<int>& nums, int k){
         ave = (double)sum/(double)w.size();
     }
     return res;
+}
+
+int main(){
+    cout << "hello world" << endl;
 }
