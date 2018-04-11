@@ -20,5 +20,5 @@ int newJewelsInStones(string J, string S){
 
 int main(){
     std::cout<<"az and aazjjqq"<<std::endl;     
-    cout<<"Number: "<<newJewelsInStones(string("az"), string("aazjjqq"))<<endln 'kana/vim-fakeclip';
+    cout<<"Number: "<<newJewelsInStones(string("az"), string("aazjjqq"))<<endl;
 }
