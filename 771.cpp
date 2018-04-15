@@ -1,6 +1,7 @@
 #include <string>
 #include <string.h>
 #include <iostream>
+#include <cstring>
 
 using namespace std;
 int newJewelsInStones(string J, string S){

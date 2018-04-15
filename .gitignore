@@ -4,3 +4,6 @@
 # Vscode stuff
 /.vscode
 *.json
+
+# CMake stuff
+build/*
