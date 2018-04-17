@@ -1,5 +1,6 @@
 # Object files
 *.o
+mav.exe
 
 # Vscode stuff
 /.vscode
