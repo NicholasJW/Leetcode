@@ -17,6 +17,12 @@
 #include <climits>
 #include <cmath>
 
+struct ListNode{
+    int val;
+    ListNode *next;
+    ListNode(int x): val(x), next(NULL) {}
+};
+
 using namespace std;
 
 #endif
