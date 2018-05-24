@@ -1,6 +1,11 @@
 #ifndef __LEETCODE_H__
 #define __LEETCODE_H__
 
+#define mainFunc
+int main(){
+    return 0;
+}
+
 // to be added
 #include <string>
 #include <vector>
